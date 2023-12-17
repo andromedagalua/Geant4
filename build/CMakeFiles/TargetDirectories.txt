@@ -1,0 +1,8 @@
+/home/andromedagalua/geant4/geant4-v11.1.3/examples/basic/B1/build/CMakeFiles/exampleB1.dir
+/home/andromedagalua/geant4/geant4-v11.1.3/examples/basic/B1/build/CMakeFiles/B1.dir
+/home/andromedagalua/geant4/geant4-v11.1.3/examples/basic/B1/build/CMakeFiles/edit_cache.dir
+/home/andromedagalua/geant4/geant4-v11.1.3/examples/basic/B1/build/CMakeFiles/rebuild_cache.dir
+/home/andromedagalua/geant4/geant4-v11.1.3/examples/basic/B1/build/CMakeFiles/list_install_components.dir
+/home/andromedagalua/geant4/geant4-v11.1.3/examples/basic/B1/build/CMakeFiles/install.dir
+/home/andromedagalua/geant4/geant4-v11.1.3/examples/basic/B1/build/CMakeFiles/install/local.dir
+/home/andromedagalua/geant4/geant4-v11.1.3/examples/basic/B1/build/CMakeFiles/install/strip.dir
